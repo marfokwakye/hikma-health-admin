@@ -119,7 +119,7 @@ export default function Dashboard() {
       <div className="flex justify-center my-6 w-full">{loading && <Loader size="xl" />}</div>
       <div>
         <Paper shadow="xs" className="h-64 flex items-center justify-center" p="xl">
-          <Title order={3}>Organization deatils </Title>
+          <Title order={3}>MAWUWEBS HOSPITAL PATIENT DATA CAPTURE SYSTEM</Title>
         </Paper>
       </div>
     </AppLayout>
