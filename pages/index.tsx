@@ -61,7 +61,7 @@ export default function Login() {
   };
   return (
     <Container size="sm" my={60}>
-      <Title style={{ textAlign: 'center' }}>Hikma Health Administrators</Title>
+      <Title style={{ textAlign: 'center' }}>Administrator</Title>
 
       <Paper withBorder shadow="md" p={30} mt={30} radius="md">
         <TextInput
